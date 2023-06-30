@@ -1,2 +1,0 @@
-# BreezyWash-Fold
-Website Laundry
